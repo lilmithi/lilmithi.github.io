@@ -1,0 +1,27 @@
+{
+    "images": [
+      {
+        "id": 1,
+        "title": "Woofing those bugs away",
+        "likes": 28,
+        "image": "https://images.dog.ceo/breeds/tervuren/yoda_in_garden.jpg"
+      }
+    ],
+    "comments": [
+      {
+        "imageId": 1,
+        "content": "",
+        "id": 1
+      },
+      {
+        "imageId": 1,
+        "content": "Looking good ;)",
+        "id": 2
+      },
+      {
+        "imageId": 1,
+        "content": "Cuuutttteee!!!",
+        "id": 3
+      }
+    ]
+  }
